@@ -21,7 +21,6 @@ public class SearchBoxCheckPage extends CommonApi {
         list.add("About");
         return list;
     }
-
     public void searchItemsFromDB() throws Exception {
         //TestLogger.log(getClass().getSimpleName() + ": " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         ConnectToSqlDB.insertDataFromArrayListToMySql(listOfUsername(), "testsearch", "items");

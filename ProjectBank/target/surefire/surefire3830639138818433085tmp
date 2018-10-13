@@ -1,13 +1,13 @@
 #surefire
-#Fri Oct 12 17:37:06 EDT 2018
+#Sat Oct 13 10:25:59 EDT 2018
 testng.configurator=org.apache.maven.surefire.testng.conf.TestNG60Configurator
 tc.1=homePageTest.HomePageTest
 testng.test.classpath=/Users/URMI/SantanderBank/ProjectBank/target/test-classes
 tc.0=homePageTest.SearchBoxUsingSQLTest
-pluginPid=45552
+pluginPid=48413
 classPathUrl.0=/Users/URMI/SantanderBank/ProjectBank/target/test-classes
 classPathUrl.1=/Users/URMI/SantanderBank/ProjectBank/target/classes
-classPathUrl.2=/Users/URMI/SantanderBank/Generic/target/Generic-1.0-SNAPSHOT.jar
+classPathUrl.2=/Users/URMI/.m2/repository/practice/Generic/1.0-SNAPSHOT/Generic-1.0-SNAPSHOT.jar
 classPathUrl.3=/Users/URMI/.m2/repository/org/seleniumhq/selenium/selenium-java/3.14.0/selenium-java-3.14.0.jar
 classPathUrl.4=/Users/URMI/.m2/repository/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar
 classPathUrl.5=/Users/URMI/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.14.0/selenium-chrome-driver-3.14.0.jar

@@ -13,6 +13,8 @@
 
     <test name = "loginPage Test">
         <classes>
+            <class name="homePageTest.HomePageTest"/>
+            <class name="homePageTest.SearchBoxUsingSQLTest"/>
             <class name="loginPageTest.LoginPageTestWithXLSheet"/>
             <class name="loginPageTest.LogInPageTestWithGoogleSheet"/>
         </classes>
